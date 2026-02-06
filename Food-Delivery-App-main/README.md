@@ -3,7 +3,7 @@
 > *Bringing food closer to your ❤️ one order at a time!*
 
 A production-grade **Food Delivery System** built with **Spring Boot**, **React**, and **MongoDB**. 
-Currently deployed on Heroku: [https://neu-eat.herokuapp.com/](https://neu-eat.herokuapp.com/)
+Currently under deployement
 
 ---
 
